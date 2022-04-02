@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pfzzz-Z
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning Big date
+- 🌱 I’m currently learning Big data
 - 📫email： pfzzZ@327outlook.con
 
 <!---
